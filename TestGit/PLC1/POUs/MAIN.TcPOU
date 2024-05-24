@@ -4,6 +4,7 @@
     <Declaration><![CDATA[PROGRAM MAIN
 VAR
 	bTest: BOOL;
+	bTest2: BOOL := TRUE;
 END_VAR
 ]]></Declaration>
     <Implementation>
