@@ -5,6 +5,7 @@
 VAR
 	bTest: BOOL;
 	bTest2: BOOL := TRUE;
+	bTest3: BOOL;
 END_VAR
 ]]></Declaration>
     <Implementation>
